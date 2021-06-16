@@ -1,0 +1,26 @@
+#botaoSair{
+    width: 100px;
+    background-color: #DA1025;
+}
+
+.botao{
+    width: 400px;
+}
+
+#sair{
+    width: 100px;
+    background-color: #DA1025;
+}
+
+#entrar{
+    width: 100px;
+    background-color: #28a745;
+}
+
+#cadastrar{
+    width: 135px;
+}
+
+#login{
+    width: 135px;
+}

@@ -1,0 +1,14 @@
+.caixa-usuario{
+    margin-top: 20px;
+}
+
+iframe{
+    width: 215px;
+    height: 200px;
+    border:0;
+}
+.botaodepartamento{
+    border-radius:100px;
+    width: 120px;
+    height: 120px;
+}

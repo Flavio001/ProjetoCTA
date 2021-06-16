@@ -1,0 +1,18 @@
+footer{
+    color:#fff;
+    padding: 20px;
+    background-color: #272726;
+}
+footer a{
+    color: #fff;
+}
+hr, .linha_rodape{
+    border-top: 1px solid #fff;
+    min-width: 180px;
+    margin-top: 5px;
+    margin-right: 100px;
+    text-align: left;
+}
+p{
+    font-size: 14px;
+}
